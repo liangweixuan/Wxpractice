@@ -83,3 +83,6 @@ local.properties
 *~
 .DS_Store
 gradle.properties
+sourceSample/build.gradle
+sourceSample/app/build.gradle
+sourceSample/settings.gradle
